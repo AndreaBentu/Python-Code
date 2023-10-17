@@ -1,3 +1,6 @@
+# Code to find out out the player with the most correct numbers, and printing out the winning numbers and their name.
+
+
 player1 = {
     'name': 'Ignacio',
     'numbers': {1, 2, 5, 9, 15}
