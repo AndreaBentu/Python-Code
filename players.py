@@ -1,4 +1,4 @@
-# Code to find out out the player with the most correct numbers, and printing out the winning numbers and their name.
+# Code to find out each players' correct numbers, and printing out the winning numbers and their name.
 
 
 player1 = {
