@@ -14,6 +14,7 @@ for line in lines:
     country = club_data[2]
     dict_line = {'Club':club, 'City':city, 'Country':country}
     teams_from_csv.append(dict_line)
+    
 file_json = open('teams_json.txt', 'w')
 json.dump(teams_from_csv, file_json)
 file_json.close()
