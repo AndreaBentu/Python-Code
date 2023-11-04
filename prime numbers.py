@@ -1,4 +1,4 @@
-# list the rime numbers up to 10.
+# list the prime numbers up to 10.
 
 for n in range(1,10):
 	if n==1:
